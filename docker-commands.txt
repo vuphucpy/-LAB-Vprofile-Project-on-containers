@@ -1,0 +1,13 @@
+    1  docker compose
+    2  mkdir compose
+    3  cd compose/
+    4  wget https://raw.githubusercontent.com/vuphucpy/vprofile-project/docker/compose/docker-compose.yml
+    5  ls
+    6  docker compose up -d
+    7  docker compose ps
+    8  docker images
+    9  ip sddr show
+   10  ip addr show
+   11  docker compose down
+   12  docker system prune -a
+   13  history
